@@ -4,6 +4,10 @@ Esse projeto faz um estudo sobre o uso de inteligência artificial para adaptar 
 
 Como mencionada, o projeto envolve por si só, uma série de outras áreas que estão fora da minha área. Portanto, deixarei as etapas do projeto que envolvem tais áreas, mais para frente. A princípio, vamos fazer uma breve abstração do que de fato nós queremos com esse projeto. Questões mais técnicas ficam de lado por enquanto.
 
+<p align="center">
+  <img src="img/drone_perception.png" alt="This drawing was made by an artificial intelligence">
+</p>
+
 # Abstração: Vamos imaginar coisas
 
 Explicando de maneira muito breve o porque pensei nesse projeto, devo dizer. Me encontro atualmente no final da minha graduação em Ciência da Computação e já encaminho os meus planos para continuar os meus estudos- mestrado, doutorado. Saindo um pouco da área cuja a qual estudo, pensei em desenvolver um projeto que envolve-se inteligência artificial, dispositivos inteligentes e robótica. A princípio, pensei em desenvolver sistemas para robôs tais quais os rovers da NASA. Na busca por projetos, o que mais me intrigou e tirou meu sono, foi buscar entender de fato, como um dispositivo pode captar dados do ambiente e se de fato tais dados, são suficientes para o robô saber onde e sobre quais circunstâncias se encontra. Devo dizer que isso me fez refletir sobre o próprio comportamento humano- Como nós, seres humanos, absorvemos as informações do ambiente, e posteriormente, o que fazemos com tais informações? É uma boa reflexão! Estudando sobre inteligência artificial e me aprofundando cada vez mais nesse campo, percebo que uma das maiores dificuldades, é entender de fato, o que é a inteligência.
